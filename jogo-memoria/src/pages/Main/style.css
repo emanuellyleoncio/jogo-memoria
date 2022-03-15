@@ -1,0 +1,24 @@
+.container {
+  height: 100vh;
+  
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.container-main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: calc(100vw - 224px);
+
+}
+
+.container-card {
+  display: flex;
+  flex-wrap: wrap;
+  width: 978px;
+  height: 504px;
+  gap: 32px;
+}

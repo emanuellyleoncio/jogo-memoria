@@ -5,7 +5,7 @@ import Netlify from './assets/netlify.png';
 import Nodejs from './assets/nodejs.png';
 import React from './assets/react.png';
 
-const cards = [
+const cardsOriginal = [
   {
     id: 1,
     slug: 'heroku',
@@ -78,6 +78,20 @@ const cards = [
     image: Heroku,
     turned: false
   },
-]
+];
+
+function shuffleArray(item) {
+
+  for (let i = item.length - 1; i > 0; i--) {
+
+    const j = Math.floor(Math.random() * (i + 1));
+
+    [item[i], item[j]] = [item[j], item[i]];
+  };
+
+  return item;
+};
+
+const cards = shuffleArray(cardsOriginal);
 
 export default cards;
