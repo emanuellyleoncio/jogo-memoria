@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/jogo-memoria/static/css/main.ec12e1f2.css",
+    "main.js": "/jogo-memoria/static/js/main.0e30a03f.js",
+    "static/media/card-back.png": "/jogo-memoria/static/media/card-back.a9f12982dab71372ca0a.png",
+    "static/media/htmlcss.png": "/jogo-memoria/static/media/htmlcss.24df4f62493b38922231.png",
+    "static/media/react.png": "/jogo-memoria/static/media/react.8d24e73eedd4c19e44a9.png",
+    "static/media/netlify.png": "/jogo-memoria/static/media/netlify.91414e85772f27c024ae.png",
+    "static/media/heroku.png": "/jogo-memoria/static/media/heroku.8d4dd40a00f11973139c.png",
+    "static/media/nodejs.png": "/jogo-memoria/static/media/nodejs.d8a80bdb629299e0d8aa.png",
+    "static/media/javascript.png": "/jogo-memoria/static/media/javascript.de727adf89a242b83ee9.png",
+    "static/media/congrats.png": "/jogo-memoria/static/media/congrats.7449e7332ac11c30a148.png",
+    "index.html": "/jogo-memoria/index.html",
+    "main.ec12e1f2.css.map": "/jogo-memoria/static/css/main.ec12e1f2.css.map",
+    "main.0e30a03f.js.map": "/jogo-memoria/static/js/main.0e30a03f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec12e1f2.css",
+    "static/js/main.0e30a03f.js"
+  ]
+}
